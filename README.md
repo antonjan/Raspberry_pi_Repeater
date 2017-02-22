@@ -6,4 +6,6 @@ The filter board is a plugin board for the Raspberry pi with a 7 stage Low pass 
 The rtl dongle as input and the rbptx as transmitter with the filter board with details in link above.<br>
 24Mhz to 1.7Ghz receiver input to 2M or HF transmitter. depending on your filter details.<br>
 Dont use this scripts without the filter boards and only used licensed frequencies.<br>
+The PCB assembled and in kit form is available at http://www.giga.co.za<br>
+
 
